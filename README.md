@@ -28,10 +28,10 @@ The dashboard includes four interactive report pages covering executive performa
 
 ### 1. Executive Dashboard
 
-- Total Revenue: 24.91M
-- Total Profit: 10.46M
-- Total Orders: 25K
-- Return Rate: 2.17%
+- Total Revenue
+- Total Profit
+- Total Orders
+- Return Rate
 - Revenue by Year
 - Orders by Category
 - Top 10 Products
