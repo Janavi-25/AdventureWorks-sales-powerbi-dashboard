@@ -132,7 +132,7 @@ AdventureWorks-Dashboard/
 
 Aspiring Data Engineer | Power BI | SQL | Python | Data Analytics
 
-🔗 LinkedIn: Janavi Parmar
+🔗 [Janavi Parmar – LinkedIn](https://www.linkedin.com/in/janavi-parmar-45a5b02b0/)
 
 ---
 
